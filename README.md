@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://rahulsrivastavaa.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://rahulsrivastavaa.github.io/Portfolio-website/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React, MySQL, Oops, Data structure,figma, and Java**
 
