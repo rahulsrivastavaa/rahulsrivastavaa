@@ -29,3 +29,23 @@
 <a href="https://www.leetcode.com/rahul_srivastavaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_srivastavaaa" height="30" width="40" /></a>
 </p>
 
+
+## 📊 My Github Stats
+<p align="center">
+  <br/>
+    <a href="https://github.com/rahulsrivastavaa"><img alt="Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsrivastavaa&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=03030397" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/rahulsrivastavaa"><img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsrivastavaa&langs_count=5&count_private=true&layout=compact&theme=vue-dark&hide_border=true&bg_color=03030397" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<br/>
+<br/>
+<p align="left">
+<a href="https://github.com/rahulsrivastavaa"><img alt="Rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rahul&bg_color=0D1117&color=459974&line=41B883&point=FFFFFF&hide_border=true" /></a>
+</p>
+
+<br/>
+<br/>
