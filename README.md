@@ -8,7 +8,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🙋‍♂️ About Me
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+  
 - 👨‍💻 All of my projects are available at [Portfolio](https://rahulsrivastavaa.github.io/Portfolio-website/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React, MySQL, Oops, Data structure,figma, and Java**
@@ -16,6 +19,8 @@
 - 📫 How to reach me **rahsrivastav@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19XKJphqIB20DCuzL-oYJsAXDWtNty3_L/view?usp=drive_link)
+
+- - ⚡ Fun fact **I like Anime**
 
 
 ## 🚀 Languages and Tools:
