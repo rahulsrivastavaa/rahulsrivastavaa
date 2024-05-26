@@ -47,12 +47,9 @@
 <a href="https://instagram.com/rahul_srivastavaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_srivastavaaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahul_srivastavaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_srivastavaaa" height="30" width="40" /></a>
 </p>
-
 <br/>
 <br/>
 <p align="left">
-<a href="https://github.com/rahulsrivastavaa"><img alt="Rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rahul&bg_color=0D1117&color=459974&line=41B883&point=FFFFFF&hide_border=true" /></a>
 </p>
-
 <br/>
 <br/>
