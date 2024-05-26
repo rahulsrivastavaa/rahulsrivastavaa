@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19XKJphqIB20DCuzL-oYJsAXDWtNty3_L/view?usp=drive_link)
 
-- - ⚡ Fun fact **I like Anime**
+-  ⚡ Fun fact **I like Anime**
 
 
 ## 🚀 Languages and Tools:
